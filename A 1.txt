@@ -1,0 +1,13 @@
+Pseudocode untuk menentukan nilai pembagian 2 bilangan bulat non-negatif terbesar (greatest common divisor of two non negative integer).
+Pseudocode :
+deklarasi
+If a != 0 do
+c = b & a
+b = a
+a = c
+return b
+If a != 0 do
+c = b & a
+b = a
+a = c
+return b
