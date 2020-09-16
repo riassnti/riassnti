@@ -1,0 +1,10 @@
+Pseudocode untuk mengetahui luas segitiga.
+Pseudocode :
+deklarasi
+luas : integer 
+alas : integer
+tinggi : integer
+alas = 25
+tinggi 30
+luas = 0.5*alas*tinggi
+write(luas)
